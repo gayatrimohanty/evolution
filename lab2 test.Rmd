@@ -1,0 +1,8 @@
+---
+title: "references.Rmd"
+output: html_document
+bibliography: data/references.bib
+---
+first reference[@Chang2015] and [@RCoreTeam]
+
+# REFERENCES
